@@ -1,0 +1,1 @@
+//una por metodo, necesito insertarArtista, albumes_artista, artistas_pais
